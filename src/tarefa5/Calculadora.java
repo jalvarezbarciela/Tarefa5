@@ -7,7 +7,7 @@ package tarefa5;
 
 /**
  *
- * @author Xavier
+ * @author jalvarezbarciela
  */
 public class Calculadora extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Xavier
+ * @author jalvarezbarciela
  */
 public class Metodos {
     public static boolean checkOperandos(String num){
